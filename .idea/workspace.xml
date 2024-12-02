@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f830055-d83b-4459-b3d6-7278a7d5ac50" name="Changes" comment="kurva">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-    </list>
+    <list default="true" id="8f830055-d83b-4459-b3d6-7278a7d5ac50" name="Changes" comment="kurva" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +83,7 @@
       <workItem from="1732532552145" duration="791000" />
       <workItem from="1732549862677" duration="26000" />
       <workItem from="1733144178416" duration="1723000" />
-      <workItem from="1733147103085" duration="563000" />
+      <workItem from="1733147103085" duration="583000" />
     </task>
     <task id="LOCAL-00001" summary="kurva">
       <option name="closed" value="true" />
@@ -96,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733147161113</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="kurva">
+      <option name="closed" value="true" />
+      <created>1733147680724</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733147680724</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
