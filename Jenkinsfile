@@ -10,7 +10,7 @@ pipeline {
 
         stage('Execute') {
             steps {
-                bat 'ant ci'
+                bat 'ant blob'
             }
         }
     }
