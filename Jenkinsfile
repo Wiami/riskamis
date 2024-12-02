@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git branch: 'main', url: 'https://github.com/ErevanskShpak/SITAiRIS_Lab9.git'
+                git branch: 'main', url: 'https://github.com/Wiami/riskamis.git'
             }
         }
 
